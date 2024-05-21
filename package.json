@@ -1,0 +1,12 @@
+{
+  "name": "rock_paper_scissor_game_codewithnoor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Noor Shaikh",
+  "license": "ISC"
+}
